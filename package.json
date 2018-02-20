@@ -1,5 +1,5 @@
 {
-  "name": "noodlejs",
+  "name": "@massdrop/noodlejs",
   "version": "0.3.2",
   "description": "noodle is a proxy server which serves for cross domain data extraction from web documents for any client.",
   "main": "./lib/noodle",
