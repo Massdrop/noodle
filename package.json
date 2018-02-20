@@ -31,9 +31,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "bin/noodle-server"
   },
-  "engines": {
-    "node": "0.6.x"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/Massdrop/noodle.git"
